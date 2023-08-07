@@ -3,7 +3,7 @@
   -git init
   -git add .
   -git commit -m "커밋 메시지"
-  -git remote add origin https://github.com/사용자명/리포지토리명.git
+  -git remote add origin https://github.com/Jn703/allipygame/.git
   -git push -u origin master
 
 #로컬로 깃허브폴더다운#
